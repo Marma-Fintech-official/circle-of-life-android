@@ -54,7 +54,7 @@ fun InviteCodeSheet(
 
             // Title
             Text(
-                "Got an invite code?",
+                "Got an Invite code?",
                 fontSize = 19.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.Black,
